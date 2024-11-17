@@ -29,9 +29,6 @@
   <a href="https://linkedin.com/in/omkar-tipugade" target="_blank">
       <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-    <a href="https://instagram.com/omkar_.1523">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
 </div>
 
  <hr/>
