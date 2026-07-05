@@ -143,7 +143,7 @@ I’m a **results-driven Full Stack Developer** passionate about building **high
 </p>
 
 ---
-
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 ## 🤝 Let’s Connect
 
 - 📧 **Email:** [omtipugade3904@gmail.com](mailto:omtipugade3904@gmail.com)
